@@ -10,7 +10,6 @@ import Ranking from './pages/Ranking';
 import Footer from './components/Footer';
 
 import logo from './trivia.png';
-import './App.css';
 
 export default class App extends Component {
   render() {
