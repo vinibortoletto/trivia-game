@@ -22,10 +22,15 @@ class Game extends React.Component {
   };
 
   componentDidMount() {
-    const { questions } = this.props;
+    const { questions, history } = this.props;
 
-    this.shuffleAnswers(questions);
-    if (questions.length > 0) this.startTimer();
+    if(questions.length === 0) {
+      history.push('/')
+    } else {
+      this.shuffleAnswers(questions);
+      this.startTimer();
+    }
+
   }
 
   startTimer = () => {
