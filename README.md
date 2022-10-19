@@ -47,6 +47,17 @@ $ npm start
 
 <br/><br/>
 
+<p>Projeto desenvolvido por:</p>
+<ul>
+  <li><a href="https://github.com/carlosbprado"/>Carlos Prado</a></li>
+  <li><a href="https://github.com/EbraimOliveira"/>Ebraim Oliveira</a></li>
+  <li><a href="https://github.com/Leonardo-Selegar"/>Leonardo Selegar</a></li>
+  <li><a href="https://github.com/lucianoalmeidajr"/>Luciano Almeida</a></li>
+  <li><a href="https://github.com/vinibortoletto"/>Vinicius Bortoletto</a></li>
+</ul>
+
+<br/><br/>
+
 <p align="center">
   Criado e desenvolvido por <b>Vinicius Bortoletto</b>
   <br/><br/>
