@@ -7,7 +7,7 @@
 <hr />
 
 <p align="center">
-  <a href="https://mytriviagame.vercel.app/">
+  <a href="https://vini-trivia-game.vercel.app/">
       <img alt="website mockup" src="https://i.imgur.com/qzJvT4o.png" />    
   </a>
 </p>
@@ -15,7 +15,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://mytriviagame.vercel.app/">Visite o app</a>
+  <a href="https://vini-trivia-game.vercel.app/">Visite o app</a>
 </p>
 
 ## :rocket: Tecnologias
